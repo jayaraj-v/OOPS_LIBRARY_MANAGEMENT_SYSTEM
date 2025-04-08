@@ -112,5 +112,5 @@ This project is licensed under the **MIT License**.
 ## 📧 Contact  
 **JAYARAJ V**  
 📩 jayaraj.veluchamy@gmail.com  
-🌐 [GitHub](https://github.com/yourusername)
+🌐 [GitHub](https://github.com/jayaraj-v)
 
